@@ -1,0 +1,23 @@
+{
+  "name": "amperfy",
+  "version": "1.0.0",
+  "description": "This is an ecommerce website built with PHP and MySQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "sass ./sass/style.scss style.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicolanzi1/amperfy.git"
+  },
+  "author": "Nicola Lanzillotta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicolanzi1/amperfy/issues"
+  },
+  "homepage": "https://github.com/nicolanzi1/amperfy#readme",
+  "dependencies": {
+    "sass": "^1.29.0"
+  }
+}
